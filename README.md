@@ -8,3 +8,4 @@ This is a new repo to create a discord bot using functional program paradigm.
 - [] Translator 
 - [] Poll Voting
 - [] Play Music
+- [] Roll Dice for DND
