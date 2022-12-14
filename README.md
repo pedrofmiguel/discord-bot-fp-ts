@@ -9,3 +9,4 @@ This is a new repo to create a discord bot using functional program paradigm.
 - [] Poll Voting
 - [] Play Music
 - [] Roll Dice for DND
+- [] Dad jokes
